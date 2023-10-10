@@ -4,3 +4,6 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+a {
+    font-size: 50px;
+}
