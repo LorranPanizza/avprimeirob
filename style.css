@@ -26,6 +26,6 @@ li{
     background-color: black;
     padding: 50px;
     width: 200%;
-    border-radius: 55px;
+    border-style: groove;
     border-color: rgb(201, 42, 164);
 }
