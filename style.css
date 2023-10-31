@@ -25,5 +25,7 @@ li{
 .cabecalho{
     background-color: black;
     padding: 100px;
-    width: auto;
+    width: 100px;
+    border: 2px;
+    border-color: aqua;
 }
