@@ -26,6 +26,6 @@ li{
     background-color: black;
     padding: 100px;
     width: 100%;
-    border: #db3463;
+    border-radius: 5px;
     border-color: rgb(201, 42, 164);
 }
