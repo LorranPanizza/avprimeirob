@@ -29,3 +29,7 @@ li{
     border-style: groove;
     border-color: rgb(201, 42, 164);
 }
+p {
+    color: #fff;
+    text-align: center;
+}
