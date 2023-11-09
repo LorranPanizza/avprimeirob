@@ -34,3 +34,23 @@ p {
     text-align: center;
     font-size: 40px;
 }
+
+.botao {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .opcoes {
+    display: none;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .opcoes ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }l
